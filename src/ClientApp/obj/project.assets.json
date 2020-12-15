@@ -7220,11 +7220,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Codes\\Downloaded\\Micro Service with POC\\src\\ClientApp\\ClientApp.csproj",
+      "projectUniqueName": "G:\\Codes\\Downloaded\\TicketBookingApp\\src\\ClientApp\\ClientApp.csproj",
       "projectName": "ClientApp",
-      "projectPath": "G:\\Codes\\Downloaded\\Micro Service with POC\\src\\ClientApp\\ClientApp.csproj",
+      "projectPath": "G:\\Codes\\Downloaded\\TicketBookingApp\\src\\ClientApp\\ClientApp.csproj",
       "packagesPath": "C:\\Users\\sujith\\.nuget\\packages\\",
-      "outputPath": "G:\\Codes\\Downloaded\\Micro Service with POC\\src\\ClientApp\\obj\\",
+      "outputPath": "G:\\Codes\\Downloaded\\TicketBookingApp\\src\\ClientApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -7244,8 +7244,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "G:\\Codes\\Downloaded\\Micro Service with POC\\src\\BookingService\\BookingService.csproj": {
-              "projectPath": "G:\\Codes\\Downloaded\\Micro Service with POC\\src\\BookingService\\BookingService.csproj"
+            "G:\\Codes\\Downloaded\\TicketBookingApp\\src\\BookingService\\BookingService.csproj": {
+              "projectPath": "G:\\Codes\\Downloaded\\TicketBookingApp\\src\\BookingService\\BookingService.csproj"
             }
           }
         }

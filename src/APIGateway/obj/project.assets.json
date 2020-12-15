@@ -807,11 +807,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Codes\\Downloaded\\Micro Service with POC\\src\\APIGateway\\OcelotAPIGateway.csproj",
+      "projectUniqueName": "G:\\Codes\\Downloaded\\TicketBookingApp\\src\\APIGateway\\OcelotAPIGateway.csproj",
       "projectName": "OcelotAPIGateway",
-      "projectPath": "G:\\Codes\\Downloaded\\Micro Service with POC\\src\\APIGateway\\OcelotAPIGateway.csproj",
+      "projectPath": "G:\\Codes\\Downloaded\\TicketBookingApp\\src\\APIGateway\\OcelotAPIGateway.csproj",
       "packagesPath": "C:\\Users\\sujith\\.nuget\\packages\\",
-      "outputPath": "G:\\Codes\\Downloaded\\Micro Service with POC\\src\\APIGateway\\obj\\",
+      "outputPath": "G:\\Codes\\Downloaded\\TicketBookingApp\\src\\APIGateway\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

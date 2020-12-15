@@ -4012,11 +4012,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Codes\\Downloaded\\Micro Service with POC\\src\\Identity\\Identity.csproj",
+      "projectUniqueName": "G:\\Codes\\Downloaded\\TicketBookingApp\\src\\Identity\\Identity.csproj",
       "projectName": "Identity",
-      "projectPath": "G:\\Codes\\Downloaded\\Micro Service with POC\\src\\Identity\\Identity.csproj",
+      "projectPath": "G:\\Codes\\Downloaded\\TicketBookingApp\\src\\Identity\\Identity.csproj",
       "packagesPath": "C:\\Users\\sujith\\.nuget\\packages\\",
-      "outputPath": "G:\\Codes\\Downloaded\\Micro Service with POC\\src\\Identity\\obj\\",
+      "outputPath": "G:\\Codes\\Downloaded\\TicketBookingApp\\src\\Identity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

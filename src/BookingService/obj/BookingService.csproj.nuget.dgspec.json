@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Codes\\Downloaded\\Micro Service with POC\\src\\BookingService\\BookingService.csproj": {}
+    "G:\\Codes\\Downloaded\\TicketBookingApp\\src\\BookingService\\BookingService.csproj": {}
   },
   "projects": {
-    "G:\\Codes\\Downloaded\\Micro Service with POC\\src\\BookingService\\BookingService.csproj": {
+    "G:\\Codes\\Downloaded\\TicketBookingApp\\src\\BookingService\\BookingService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Codes\\Downloaded\\Micro Service with POC\\src\\BookingService\\BookingService.csproj",
+        "projectUniqueName": "G:\\Codes\\Downloaded\\TicketBookingApp\\src\\BookingService\\BookingService.csproj",
         "projectName": "BookingService",
-        "projectPath": "G:\\Codes\\Downloaded\\Micro Service with POC\\src\\BookingService\\BookingService.csproj",
+        "projectPath": "G:\\Codes\\Downloaded\\TicketBookingApp\\src\\BookingService\\BookingService.csproj",
         "packagesPath": "C:\\Users\\sujith\\.nuget\\packages\\",
-        "outputPath": "G:\\Codes\\Downloaded\\Micro Service with POC\\src\\BookingService\\obj\\",
+        "outputPath": "G:\\Codes\\Downloaded\\TicketBookingApp\\src\\BookingService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
